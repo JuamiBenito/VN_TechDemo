@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Additional exclusions for large files
+Intermediate/CachedAssetRegistry.bin
+Content/StarterContent/Textures/T_MacroVariation.uasset
+Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+Binaries/Win64/UnrealEditor-VN_TechDemo.pdb
+Intermediate/ProjectFiles/UE5.vcxproj
+Intermediate/ProjectFiles/UE5.vcxproj.filters
+Content/StarterContent/Textures/T_ground_Moss_D.uasset
+Content/StarterContent/Textures/T_Rock_Slate_D.uasset
